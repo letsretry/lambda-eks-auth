@@ -1,2 +1,1 @@
-# lambda-eks-auth
-Golang Code to authenticate Lambda with EKS 
+EKS Auth via Lambda
